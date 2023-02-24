@@ -1,0 +1,8 @@
+1. Create Github Account
+2. Create Empty Repo
+3. Create Repo at Local System
+	git config --global user.name"Jihad7518"
+	gti config --golbal user.mail"jihadmd7518@gmial.com"
+4. May Ask username & Password
+	use token as password
+5. git push -u origin master
